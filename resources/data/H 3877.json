@@ -1,0 +1,755 @@
+{
+    "id": "ocd-bill/4660fcfd-2a1d-47b1-84a0-90db27a3dc1a",
+    "legislative_session": "2023-2024",
+    "jurisdiction_name": "South Carolina",
+    "identifier": "H 3877",
+    "title": "Anesthesiologists' assistants",
+    "chamber": "lower",
+    "classification": [
+        "bill"
+    ],
+    "subject": [],
+    "abstracts": [
+        {
+            "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 40-47-1250, RELATING TO SUPERVISION OF ANESTHESIOLOGISTS' ASSISTANTS, SO AS TO INCREASE THE NUMBER OF ANESTHESIOLOGISTS' ASSISTANTS THAT AN ANESTHESIOLOGIST MAY SUPERVISE; AND BY AMENDING SECTION 40-47-1240, RELATING TO LICENSURE OF ANESTHESIOLOGIST'S ASSISTANTS, SO AS TO REMOVE  THE REQUIREMENT THAT LICENSURE APPLICANTS MUST APPEAR BEFORE A MEMBER OF THE BOARD OF MEDICAL EXAMINERS AND PRESENT EVIDENCE OF CERTAIN RELEVANT ACADEMIC CREDENTIALS AND KNOWLEDGE.",
+            "note": "description"
+        }
+    ],
+    "other_titles": [],
+    "actions": [
+        {
+            "organization__name": "House",
+            "description": "Introduced and read first time",
+            "date": "2023-02-07",
+            "classification": [
+                "introduction",
+                "reading-1"
+            ],
+            "order": 0
+        },
+        {
+            "organization__name": "House",
+            "description": "Referred to Committee on Medical, Military, Public and Municipal Affairs",
+            "date": "2023-02-07",
+            "classification": [
+                "referral-committee"
+            ],
+            "order": 1
+        },
+        {
+            "organization__name": "House",
+            "description": "Member(s) request name removed as sponsor: B.Newton",
+            "date": "2023-03-08",
+            "classification": [],
+            "order": 2
+        },
+        {
+            "organization__name": "House",
+            "description": "Member(s) request name added as sponsor: Caskey",
+            "date": "2023-03-29",
+            "classification": [],
+            "order": 3
+        },
+        {
+            "organization__name": "House",
+            "description": "Committee report: Favorable Medical, Military, Public and Municipal Affairs",
+            "date": "2023-03-29",
+            "classification": [
+                "committee-passage-favorable"
+            ],
+            "order": 4
+        },
+        {
+            "organization__name": "South Carolina Legislature",
+            "description": "Scrivener's error corrected",
+            "date": "2023-04-03",
+            "classification": [],
+            "order": 5
+        },
+        {
+            "organization__name": "House",
+            "description": "Member(s) request name added as sponsor: Chapman",
+            "date": "2023-04-04",
+            "classification": [],
+            "order": 6
+        },
+        {
+            "organization__name": "House",
+            "description": "Debate adjourned",
+            "date": "2023-04-04",
+            "classification": [],
+            "order": 7
+        },
+        {
+            "organization__name": "House",
+            "description": "Read second time",
+            "date": "2023-04-05",
+            "classification": [
+                "reading-2"
+            ],
+            "order": 8
+        },
+        {
+            "organization__name": "House",
+            "description": "Roll call Yeas-112  Nays-0",
+            "date": "2023-04-05",
+            "classification": [],
+            "order": 9
+        },
+        {
+            "organization__name": "House",
+            "description": "Read third time and sent to Senate",
+            "date": "2023-04-06",
+            "classification": [
+                "passage",
+                "reading-3"
+            ],
+            "order": 10
+        },
+        {
+            "organization__name": "Senate",
+            "description": "Introduced and read first time",
+            "date": "2023-04-06",
+            "classification": [
+                "introduction",
+                "reading-1"
+            ],
+            "order": 11
+        },
+        {
+            "organization__name": "Senate",
+            "description": "Referred to Committee on Medical Affairs",
+            "date": "2023-04-06",
+            "classification": [
+                "referral-committee"
+            ],
+            "order": 12
+        }
+    ],
+    "related_bills": [],
+    "sponsors": [
+        {
+            "name": "West",
+            "primary": true,
+            "classification": "primary"
+        },
+        {
+            "name": "J. Moore",
+            "primary": true,
+            "classification": "primary"
+        },
+        {
+            "name": "M.M. Smith",
+            "primary": true,
+            "classification": "primary"
+        },
+        {
+            "name": "Atkinson",
+            "primary": true,
+            "classification": "primary"
+        },
+        {
+            "name": "B.J. Cox",
+            "primary": true,
+            "classification": "primary"
+        },
+        {
+            "name": "Gagnon",
+            "primary": true,
+            "classification": "primary"
+        },
+        {
+            "name": "Hayes",
+            "primary": true,
+            "classification": "primary"
+        },
+        {
+            "name": "Caskey",
+            "primary": true,
+            "classification": "primary"
+        },
+        {
+            "name": "Chapman",
+            "primary": true,
+            "classification": "primary"
+        }
+    ],
+    "documents": [],
+    "versions": [
+        {
+            "note": "Filed",
+            "date": "",
+            "links": [
+                {
+                    "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3877.docx",
+                    "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3877.htm",
+                    "media_type": "text/html"
+                }
+            ]
+        },
+        {
+            "note": "04/03/2023",
+            "date": "",
+            "links": [
+                {
+                    "url": "https://www.scstatehouse.gov//sess125_2023-2024/prever/3877_20230403.htm",
+                    "media_type": "text/html"
+                }
+            ]
+        },
+        {
+            "note": "03/29/2023",
+            "date": "",
+            "links": [
+                {
+                    "url": "https://www.scstatehouse.gov//sess125_2023-2024/prever/3877_20230329.htm",
+                    "media_type": "text/html"
+                }
+            ]
+        },
+        {
+            "note": "02/07/2023",
+            "date": "",
+            "links": [
+                {
+                    "url": "https://www.scstatehouse.gov//sess125_2023-2024/prever/3877_20230207.htm",
+                    "media_type": "text/html"
+                }
+            ]
+        }
+    ],
+    "sources": [
+        {
+            "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3877&session=125&summary=B"
+        }
+    ],
+    "votes": [
+        {
+            "identifier": "",
+            "motion_text": "Passage of Bill",
+            "motion_classification": [
+                "passage"
+            ],
+            "start_date": "2023-04-05",
+            "result": "pass",
+            "organization__classification": "lower",
+            "counts": [
+                {
+                    "option": "other",
+                    "value": 12
+                },
+                {
+                    "option": "no",
+                    "value": 0
+                },
+                {
+                    "option": "yes",
+                    "value": 112
+                }
+            ],
+            "votes": [
+                {
+                    "option": "yes",
+                    "voter_name": "Anderson, Carl L."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Atkinson, Lucas"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Bailey, William H."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Ballentine, Nathan"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Bannister, Bruce W."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Bauer, Heather"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Beach, Thomas"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Bernstein, Beth E."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Blackwell, Bart T."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Bradley, Jeffrey A."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Brewer, Gary S., Jr."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Brittain, Thomas C., Jr."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Burns, James Mikell"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Bustos, Joseph M."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Calhoon, Paula Rawl"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Carter, Jerry T."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Caskey, Micajah P., IV"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Chapman, Donald G."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Chumley, William M."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Clyburn, William"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Cobb-Hunter, Gilda"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Collins, Neal A."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Connell, J. Benjamin"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Cox, Bobby J."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Crawford, Heather Ammons"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Cromer, April"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Davis, Sylleste H."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Dillard, Chandra E."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Elliott, Jason"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Erickson, Shannon S."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Felder, R. Raye"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Forrest, Cally R., Jr."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Gagnon, Craig A."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Garvin, Kambrell H."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Gatch, Gil"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Gibson, Daniel"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Gilliam, Leon D."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Gilliard, Wendell G."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Guest, Thomas Duval, Jr."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Guffey, Brandon"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Haddon, Patrick B."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Hager, William"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Hardee, Kevin"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Harris, Robert J."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Hart, Christopher R."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Hartnett, Thomas F., Jr."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Hayes, Jackie E."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Henderson-Myers, Rosalyn D."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Henegan, Patricia Moore"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Herbkersman, William G."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Hewitt, Lee"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Hiott, David R."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Hosey, Lonnie"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Howard, Leon"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Hyde, Max T., Jr."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Jefferson, Joseph H., Jr."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Johnson, Jeffrey E."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Johnson, Jermaine L., Sr."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Jones, Stewart O."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Jones, Wendell K."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Jordan, Wallace H., Jr."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Kilmartin, John Gregory"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "King, John Richard C."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Landing, Kathy"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Lawson, M. Brian"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Leber, Matthew W."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Ligon, Thomas R."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Long, Steven Wayne"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Lowe, Phillip D."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Magnuson, Josiah"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "May, Robert J., III"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "McCabe, Donald Ryan, Jr."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "McCravy, John R., III"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "McDaniel, Annie E."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "McGinnis, Timothy A."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Moore, Travis A."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Morgan, Adam M."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Morgan, T. Alan"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Moss, Dennis C."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Murphy, Chris"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Neese, James M."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Newton, Brandon"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Newton, Wm. Weston J."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Nutt, Roger A."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "O'Neal, David L."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Oremus, Melissa Lackey"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Ott, Russell L."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Pace, Jordan S."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Pendarvis, Marvin R."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Pope, Thomas E."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Rivers, Michael F., Sr."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Robbins, Robby"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Rose, Seth"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Sandifer, William E., III"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Schuessler, Carla"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Sessions, Heath"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Smith, G. Murrell, Jr."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Smith, Marvin"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Stavrinakis, Leonidas E."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Taylor, Bill"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Tedder, Deon T."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Thayer, Anne J."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Trantham, Ashley B."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Vaughan, David"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "West, John Taliaferro, IV"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Wetmore, Elizabeth"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "White, Joseph S."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Whitmire, William R."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Williams, Robert Q."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Willis, Mark N."
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Wooten, Chris"
+                },
+                {
+                    "option": "yes",
+                    "voter_name": "Yow, Richard L."
+                },
+                {
+                    "option": "excused",
+                    "voter_name": "Hixon, William M."
+                },
+                {
+                    "option": "excused",
+                    "voter_name": "Alexander, Terry"
+                },
+                {
+                    "option": "excused",
+                    "voter_name": "Bamberg, Justin T."
+                },
+                {
+                    "option": "excused",
+                    "voter_name": "Cox, Brandon L."
+                },
+                {
+                    "option": "excused",
+                    "voter_name": "Kirby, Roger K."
+                },
+                {
+                    "option": "excused",
+                    "voter_name": "Mitchell, Cody T."
+                },
+                {
+                    "option": "excused",
+                    "voter_name": "Moore, JA"
+                },
+                {
+                    "option": "excused",
+                    "voter_name": "Pedalino, Fawn M."
+                },
+                {
+                    "option": "excused",
+                    "voter_name": "Rutherford, J. Todd"
+                },
+                {
+                    "option": "excused",
+                    "voter_name": "Thigpen, Ivory Torrey"
+                },
+                {
+                    "option": "excused",
+                    "voter_name": "Weeks, J. David"
+                },
+                {
+                    "option": "excused",
+                    "voter_name": "Wheeler, William W., III"
+                }
+            ]
+        }
+    ],
+    "raw_text": "South Carolina General Assembly125th Session, 2023-2024\nDownload This Bill in Microsoft Word Format\nIndicates Matter StrickenIndicates New Matter\nH. 3877\nSTATUS INFORMATION\nGeneral BillSponsors: Reps. West, J. Moore, M.M. Smith, Atkinson, B.J. Cox, Gagnon, Hayes and CaskeyDocument Path: LC-0158WAB23.docx\nIntroduced in the House on February 7, 2023Currently residing in the House\nHISTORY OF LEGISLATIVE ACTIONS\nView the latest legislative information at the website\nVERSIONS OF THIS BILL\n02/07/202303/29/202304/03/2023\nIndicates Matter Stricken\nIndicates New Matter\n\u00a0\nCommittee Report\nMarch 29, 2023\nH. 3877\nIntroduced by Reps. West, J. Moore, M. M. Smith,\r\nAtkinson, B. J. Cox, Gagnon, Hayes and Caskey \n\u00a0\nS. Printed 03/29/23--H.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 [SEC\r\n4/3/2023 1:47 PM]\nRead the first time February 07, 2023\n\u00a0\n________\n\u00a0\nThe committee on House Medical,\r\nMilitary, Public and Municipal Affairs\nTo who was referred a Bill (H. 3877) to amend\r\nthe South Carolina Code of Laws by amending Section 40-47-1250, relating to supervision\r\nof anesthesiologist's assistants, so as to increase the number of, etc.,\r\nrespectfully\nReport:\nThat they have duly and carefully considered\r\nthe same, and recommend that the same do pass:\n\u00a0\nSYLLESTE DAVIS for Committee.\n\u00a0\nstatement of estimated fiscal impact\nExplanation of Fiscal Impact\n\u00a0\nState Expenditure\nThis bill increases the number of\r\nanesthesiologists' assistants that an anesthesiologist may supervise from two\r\nto four.\u00a0 The bill also removes the requirement that an anesthesiologist assistant\r\nlicense applicant must appear before a member of the Board of Medical Examiners\r\nand present certain credentials and knowledge prior to receiving licensure. \n\u00a0\nLLR indicates that increasing the number of\r\nanesthesiologist's assistants that an anesthesiologist may supervise will have\r\nno expenditure impact on the department or the Board of Medical Examiners since\r\nthis can be managed within the normal course of business.\u00a0 Additionally, LLR\r\nindicates that the removal of the requirement for certain academic credentials\r\nand knowledge to be presented to a member of the Board of Medical Examiners\r\nprior to licensure as an anesthesiologist assistant will have no cost savings\r\non LLR or the Board of Medical Examiners as the review of these credentials and\r\nknowledge will be shifted to other areas of the program.\u00a0 Therefore, this bill\r\nwill have no fiscal impact on LLR or the Board of Medical Examiners.\u00a0 For\r\nreference, there are currently sixty-nine licensed anesthesiologist's\r\nassistants in South Carolina. \n\u00a0\n\u00a0\nFrank A. Rainwater, Executive Director\nRevenue and Fiscal Affairs Office\n\u00a0\n________\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\nA bill\n\u00a0\nTO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING\r\nSECTION 40-47-1250, RELATING TO SUPERVISION OF ANESTHESIOLOGISTS' ASSISTANTS,\r\nSO AS TO INCREASE THE NUMBER OF ANESTHESIOLOGISTS' ASSISTANTS THAT AN\r\nANESTHESIOLOGIST MAY SUPERVISE; AND BY AMENDING SECTION 40-47-1240, RELATING TO\r\nLICENSURE OF ANESTHESIOLOGIST'S ASSISTANTS, SO AS TO REMOVE\u00a0 THE REQUIREMENT\r\nTHAT LICENSURE APPLICANTS MUST APPEAR BEFORE A MEMBER OF THE BOARD OF MEDICAL\r\nEXAMINERS AND PRESENT EVIDENCE OF CERTAIN RELEVANT ACADEMIC CREDENTIALS AND\r\nKNOWLEDGE.\n\u00a0\nBe it enacted by the\r\nGeneral Assembly of the State of South Carolina:\n\u00a0\nSECTION 1.\u00a0 Section 40-47-1250 of the S.C. Code is amended to read:\n\u00a0\n\u00a0\u00a0\u00a0 Section 40-47-1250.\u00a0 An\r\nanesthesiologist's assistant shall practice only under the supervision of a\r\nphysician who is actively and directly engaged in the clinical practice of\r\nmedicine and meets the definition of being a supervising anesthesiologist.\u00a0 An\r\nanesthesiologist may not supervise more than two four anesthesiologists' assistants at any one time.\n\u00a0\nSECTION 2.\u00a0 Section 40-47-1240(8) and (9) of the S.C. Code is\r\namended to read:\n\u00a0\n\u00a0\u00a0\u00a0 (8)\r\nappeared before a board member or board designee with his\r\nor her sponsoring anesthesiologist, presenting all original diplomas and\r\ncertificates and demonstrated knowledge of the contents of this article;\u00a0 and\n\u00a0\u00a0\u00a0 (9) submitted to the board any\r\nother information the board considers necessary to evaluate the applicant's\r\nqualifications.\n\u00a0\nSECTION 3.\u00a0 This act takes effect upon approval\r\nby the Governor.\n----XX----\nThis web page was last updated on April 3, 2023 at 1:47 PM\n",
+    "raw_text_url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3877.htm"
+}
